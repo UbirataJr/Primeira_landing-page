@@ -1,0 +1,25 @@
+.main-bg{
+    background-image: url('../img/mainpg.svg');
+    background-size: cover;
+    background-position: center;
+    color: var(--white-color);
+}
+
+.white-bg{
+    background-image: url(../img/wavey-fingerprint.svg);
+}
+
+.main-content{
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 10rem var(--gap);
+}
+
+.section{
+    min-height: 100vh;
+    padding: 5rem;
+}
+
+.menu-spacing{
+    height: 65px;
+}
